@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1f2d9b41b4e3251428da7ac67661857b
+guid: 9530659c72dd6d048b205b5d03085aa5
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -39,10 +39,10 @@ TextureImporter:
     wrapU: 0
     wrapV: 0
     wrapW: 0
-  nPOTScale: 0
+  nPOTScale: 1
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 0
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -53,7 +53,7 @@ TextureImporter:
   alphaUsage: 1
   alphaIsTransparency: 0
   spriteTessellationDetail: -1
-  textureType: 8
+  textureType: 0
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -151,64 +151,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: Twizzzler_0
-      rect:
-        serializedVersion: 2
-        x: 109
-        y: 1168
-        width: 798
-        height: 73
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6082a9e01c2da8747b3fe7b6aba53a57
-      internalID: 648815710
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Twizzzler_1
-      rect:
-        serializedVersion: 2
-        x: 1037
-        y: 1168
-        width: 853
-        height: 73
-      alignment: 9
-      pivot: {x: 0.49804112, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 34dbbedeab8c8014481a618f45b47393
-      internalID: 1300701517
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: ff2cf2c1b45d2f345ad4f749239ed6b6
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      Twizzzler_3: 1358854414
-      Twizzzler_0: 648815710
-      Twizzzler_2: -1538564144
-      Twizzzler_1: 1300701517
+    nameFileIdTable: {}
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
