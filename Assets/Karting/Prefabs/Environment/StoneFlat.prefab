@@ -171,6 +171,41 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tall Rock
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 04f88a894e9544648a74d7575c5ab856,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4056114830391060003, guid: 04f88a894e9544648a74d7575c5ab856,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 16.808933
+      objectReference: {fileID: 0}
+    - target: {fileID: 4056114830391060003, guid: 04f88a894e9544648a74d7575c5ab856,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 16.808933
+      objectReference: {fileID: 0}
+    - target: {fileID: 4056114830391060003, guid: 04f88a894e9544648a74d7575c5ab856,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 33.741528
+      objectReference: {fileID: 0}
+    - target: {fileID: 4056114830391060003, guid: 04f88a894e9544648a74d7575c5ab856,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0012518
+      objectReference: {fileID: 0}
+    - target: {fileID: 4056114830391060003, guid: 04f88a894e9544648a74d7575c5ab856,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.132
+      objectReference: {fileID: 0}
+    - target: {fileID: 4056114830391060003, guid: 04f88a894e9544648a74d7575c5ab856,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0080117
+      objectReference: {fileID: 0}
     - target: {fileID: 8632055958874330854, guid: 04f88a894e9544648a74d7575c5ab856,
         type: 3}
       propertyPath: m_LocalScale.x
