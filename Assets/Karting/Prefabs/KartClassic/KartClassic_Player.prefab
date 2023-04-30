@@ -505,6 +505,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: IceCream
       objectReference: {fileID: 0}
+    - target: {fileID: 4851606550332044884, guid: 752f498318bef2946bfe97d7463269de,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 226958c79d18a8b458fea3bbfaf409ea, type: 2}
     - target: {fileID: 5332809968238436118, guid: 752f498318bef2946bfe97d7463269de,
         type: 3}
       propertyPath: m_IsActive
